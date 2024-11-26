@@ -27,9 +27,6 @@ Run the script in your terminal:
 **Visualization:** A scatter plot compares actual vs. predicted prices to assess the model's accuracy.
 
 **Information about the dataset**
-
-Downloaded from kaggle
-
 There are 14 attributes in each case of the dataset. 
 They are:
 CRIM - per capita crime rate by town
